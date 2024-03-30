@@ -21,6 +21,7 @@ ColBERTv2 = dsp.ColBERTv2
 Pyserini = dsp.PyseriniRetriever
 Clarifai = dsp.ClarifaiLLM
 Google = dsp.Google
+GPT4Vision = dsp.GPT4Vision
 
 HFClientTGI = dsp.HFClientTGI
 HFClientVLLM = HFClientVLLM
